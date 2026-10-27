@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PR_06.4.1\\x64\\Debug\\Module.obj",
+            "outputs": [
+                "PR_06.4.1\\x64\\Debug\\Module.ixx.ifc.dt.module.json",
+                "PR_06.4.1\\x64\\Debug\\Module.ixx.ifc.dt.d.json",
+                "PR_06.4.1\\x64\\Debug\\Module.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Module",
+                    "source-path": "c:\\users\\hp\\source\\repos\\pr_06.4.1\\module.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
